@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Capital Trivia</string>
+    <string name="submit">Submit</string>
+
+    <string name="title_capital_trivia_question">Capital Trivia (%1$d/%2$d)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scoreDialogue">You scored</string>
+    <string name="next_match">Next Match</string>
+    <string name="a_world_map">A world map</string>
+</resources>
